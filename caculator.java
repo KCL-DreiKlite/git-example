@@ -20,7 +20,7 @@ public class caculator extends JFrame {
     JButton btn4;
     JButton btn5;
     JButton btn6;
-    JButton btn7;   //bruh
+    JButton btn7;   //bruh hehe
     JButton btn8;
     JButton btn9;
 
